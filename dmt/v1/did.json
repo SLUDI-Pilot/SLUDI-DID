@@ -1,14 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:marshmelloweranda.github.io:DID:dev1#key-0"
+    "did:web:SLUDI-Pilot.github.io:SLUDI-DID:dmt:v1"
   ],
   "service": [],
-  "id": "did:web:marshmelloweranda.github.io:DID:dev1",
+  "id": "did:web:SLUDI-Pilot.github.io:SLUDI-DID:dmt:v1",
   "verificationMethod": [
     {
       "publicKeyMultibase": "z6Mkg3NsLzfFLuoizLe2FPUqEuKVEGgdj1RjEN94ETNvS7dM",
-      "controller": "did:web:marshmelloweranda.github.io:DID:dev1",
-      "id": "did:web:marshmelloweranda.github.io:DID:dev1#key-0",
+      "controller": "did:web:SLUDI-Pilot.github.io:SLUDI-DID:dmt:v1",
+      "id": "did:web:SLUDI-Pilot.github.io:SLUDI-DID:dmt:v1",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:marshmelloweranda.github.io:DID:dev1#key-0"
+    "did:web:SLUDI-Pilot.github.io:SLUDI-DID:dmt:v1"
   ]
 }
