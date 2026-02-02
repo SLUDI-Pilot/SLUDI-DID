@@ -15,7 +15,6 @@
     "bloodGroup": "schema:bloodGroup",
     "restrictions": "schema:restrictions",
     "photo": "schema:photo",
-    "fullName": "schema:name",
     "cardName1": "schema:name",
     "cardName2": "schema:name",
     "cardAddress1": "schema:address",
